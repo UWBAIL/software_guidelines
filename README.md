@@ -13,7 +13,7 @@ This page is the software guidelines for UWBAIL team. This is an "open source" g
 
 ## 2. Software developer's guidelines
 
-1. An individual does not have the copyright of any lab-developed software. Distributing any software to anyone outside the lab is  **prohibited**, without the consent of UW.
+1. An individual does not have the copyright of any lab-developed software. Distributing any software to anyone outside the lab is  **prohibited**, without approval from UW.
 
 1. Do not put copyright information or lisences inside source code, unless it is approved for distribute.
 
@@ -49,3 +49,17 @@ This page is the software guidelines for UWBAIL team. This is an "open source" g
 1. Only **lab-managed** branches are allowed to produce results for formal reports (including group meeting reports).
 
 1. Only **lab-managed *master* branch** software are allowed to produce the results for publications.
+
+## 4. Software management on lab computers
+
+1. Each OCT system has a designated system manager, System managers should have read/write access to lab-managed repositories.
+
+1. To access lab-managed software, system manager should use github desktop and log-on with their github account.
+
+1. It is system manager's responsibility to clone lab-managed repositories to OCT system computer, and add them to matlab/labview search paths.
+
+1. Irrelavent softwares and un-managed developing branches are not allowed on lab computers.
+
+## 5. Revisions of the guidelines
+
+This guideline is open for discussion. Everyone in the group has the freedom to suggest changes to this guideline, subject to approval by lab director.
