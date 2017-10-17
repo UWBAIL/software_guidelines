@@ -44,11 +44,11 @@ This page is the software guidelines for UWBAIL team. This is an "open source" g
 
 1. It is recommended to work on **lab-managed** repositories directly. If you choose to work on your own directory, you are responsible for keeping the lab-managed repository updated with your developing branch. 
 
-1. Only **lab-managed** software are allowed to run on lab computers/servers.
+1. Only **lab-managed** software should run on lab computers/servers.
 
-1. Only **lab-managed** branches are allowed to produce results for formal reports (including group meeting reports).
+1. Only **lab-managed** branches should be used to produce results for formal reports (including group meeting reports).
 
-1. Only **lab-managed *master* branch** software are allowed to produce the results for publications.
+1. Only **lab-managed *master* branch** software should be used to produce the results for publications.
 
 ## 4. Software management on lab computers
 
