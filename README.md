@@ -62,4 +62,4 @@ This page is the software guidelines for UWBAIL team. This is an "open source" g
 
 ## 5. Revisions of the guidelines
 
-This guideline is open for discussion. Everyone in the group has the freedom to suggest changes to this guideline, subject to approval by lab director.
+This guideline is open for discussion. Revisions can be made by making a pull request on this "software_guideline" repository.
