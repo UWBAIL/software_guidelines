@@ -9,7 +9,7 @@ This page is the software guidelines for UWBAIL team. This is an "open source" g
 * Standarize software developing practices.
 * Maintain central management by lab director and project managers.
 
-1. The guidelines are in compliance with intellectual property policies of the University of Washington. The copyright of any work produced by UW employee does not belong to the individual, but to the cooperation. The lab director should have full access to any software, including its source codes, and reserves the rights to revoke an individual's access to any software at any time. 
+2. The guidelines are in compliance with intellectual property policies of the University of Washington. The copyright of any work produced by UW employee does not belong to the individual, but to the cooperation. The lab director should have full access to any software, including its source codes, and reserves the rights to revoke an individual's access to any software at any time. 
 
 ## 2. Software developer's guidelines
 
